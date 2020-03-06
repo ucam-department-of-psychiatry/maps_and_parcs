@@ -9,7 +9,7 @@ plotMap2Map <- function (mapfile, plotdir) {
   
   outfile <- strsplit(mapfile,'map2map_')[[1]][2]
   outfile <- strsplit(outfile,'.csv')[[1]][1]
-  outfile <- paste(plotdir,'/',outfile,'.pdf',sep="")
+  outfile <- paste(plotdir,'/',outfile,'.png',sep="")
   
   figure <- ggplot(data = df,
          aes(axis1 = label1, axis2 = label2)) +
@@ -22,7 +22,7 @@ plotMap2Map <- function (mapfile, plotdir) {
     scale_fill_viridis() +
     theme_minimal()
   
-  pdf(file = outfile)
+  png(file = outfile)
     plot(figure)
   dev.off()
   

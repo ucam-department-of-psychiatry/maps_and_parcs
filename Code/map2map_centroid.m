@@ -22,29 +22,29 @@ rh_annot2 = strcat("rh.",annot2,".annot");
 [~, rh_l2, rh_ctb2] = read_annotation(strcat(annotdir,'/',lh_annot2));
 
 %% get centroids and labels
-[centroid_lh labels_lh] = centroid_extraction_sphere('/Users/Richard/GitHub/Maps_and_parcs/Spheres/FSAverage/lh.sphere',strcat(annotdir,'/',lh_annot2));
-[centroid_rh labels_rh] = centroid_extraction_sphere('/Users/Richard/GitHub/Maps_and_parcs/Spheres/FSAverage/rh.sphere',strcat(annotdir,'/',rh_annot2));
+[centroid_lh labels_lh] = centroid_extraction_sphere(strcat(spheredir,'lh.sphere'),strcat(annotdir,'/',lh_annot2));
+[centroid_rh labels_rh] = centroid_extraction_sphere(strcat(spheredir,'rh.sphere'),strcat(annotdir,'/',rh_annot2));
 centroid_2 = [centroid_lh; centroid_rh];
 labels_2 = [strcat('lh_',labels_lh); strcat('rh_',labels_rh)];
 
-%% 
+%%
 try
-    
+
     display("congratulations you can continue");
     % Find nearest neighbors in file 2 and the corresponding values to each
     % point in file 1 using euclidean distance
    [idx, dist] = knnsearch(centroid_2,centroid_1,'dist','euclidean','k',1);
-   
+
    label1 = cell(length(idx), 1);
    label2 = cell(length(idx), 1);
    for i = 1:length(idx)
         label1{i} = labels_1{i};
         label2{i} = labels_2{idx(i)};
    end
-   
+
    out = array2table([num2cell(1:1:length(idx))', num2cell(idx), num2cell(dist), label1, label2], 'VariableNames', {'annot1_idx', 'annot2_idx', 'distance','label1','label2'});
    writetable(out,strcat(outfile));
-   
+
 catch
     display("something went wrong ... game over...");
 end

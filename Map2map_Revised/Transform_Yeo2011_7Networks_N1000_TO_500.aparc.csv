@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,96.5774647887324,FreeSurfer_Defined_Medial_Wall,unknown_part1
+2,73,5.12666420118343,7Networks_1,pericalcarine_part2
+3,151,4.54362280878501,7Networks_2,insula_part1
+4,130,7.09268459825253,7Networks_3,superiorparietal_part7
+5,154,6.87097516099356,7Networks_4,insula_part4
+6,14,9.2091388400703,7Networks_5,fusiform_part2
+7,18,5.43432521791404,7Networks_6,inferiorparietal_part1
+8,100,3.02429631307697,7Networks_7,rostralanteriorcingulate_part1
+9,155,96.9879518072289,FreeSurfer_Defined_Medial_Wall,unknown_part1
+10,203,4.27638882721258,7Networks_1,lingual_part1
+11,310,4.69096567020889,7Networks_2,insula_part2
+12,290,7.34492160872529,7Networks_3,superiorparietal_part8
+13,302,5.52520358725905,7Networks_4,supramarginal_part4
+14,210,8.9374892371276,7Networks_5,medialorbitofrontal_part2
+15,178,4.78280340349306,7Networks_6,inferiorparietal_part6
+16,253,3.98756524408965,7Networks_7,precuneus_part2

@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,96.5633802816901,FreeSurfer_Defined_Medial_Wall,no label
+2,12,28.3977440828402,7Networks_1,lateraloccipital
+3,23,30.3109678285983,7Networks_2,postcentral
+4,30,38.7413625720975,7Networks_3,superiorparietal
+5,36,17.0710671573137,7Networks_4,insula
+6,13,19.4288224956063,7Networks_5,lateralorbitofrontal
+7,28,23.7451157198677,7Networks_6,rostralmiddlefrontal
+8,29,17.981537067452,7Networks_7,superiorfrontal
+9,0,96.9666902905741,FreeSurfer_Defined_Medial_Wall,no label
+10,48,26.0402326923931,7Networks_1,lateraloccipital
+11,59,29.370675671202,7Networks_2,postcentral
+12,66,37.037037037037,7Networks_3,superiorparietal
+13,68,17.6425110813318,7Networks_4,supramarginal
+14,49,21.3793697261925,7Networks_5,lateralorbitofrontal
+15,64,26.4128974473802,7Networks_6,rostralmiddlefrontal
+16,65,21.6994166410807,7Networks_7,superiorfrontal

@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,100,FreeSurfer_Defined_Medial_Wall,FreeSurfer_Defined_Medial_Wall
+2,2,44.3139792899408,7Networks_1,17Networks_1
+3,4,49.3216468533817,7Networks_2,17Networks_3
+4,7,40.4831248929245,7Networks_3,17Networks_6
+5,8,65.610625574977,7Networks_4,17Networks_7
+6,10,52.4253075571177,7Networks_5,17Networks_9
+7,13,39.2004809137361,7Networks_6,17Networks_12
+8,18,42.9631307696664,7Networks_7,17Networks_17
+9,19,100,FreeSurfer_Defined_Medial_Wall,FreeSurfer_Defined_Medial_Wall
+10,20,45.0197610906346,7Networks_1,17Networks_1
+11,22,48.0550865693382,7Networks_2,17Networks_3
+12,25,42.069984094524,7Networks_3,17Networks_6
+13,26,63.7872384290279,7Networks_4,17Networks_7
+14,28,50.6543826416394,7Networks_5,17Networks_9
+15,32,40.1343484102105,7Networks_6,17Networks_13
+16,35,47.3134786613448,7Networks_7,17Networks_16

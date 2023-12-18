@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,42,96.5633802816901,FreeSurfer_Defined_Medial_Wall,Medial_wall
+2,45,13.3367233727811,7Networks_1,S_calcarine
+3,46,16.1259990597085,7Networks_2,S_central
+4,25,19.804694192222,7Networks_3,G_parietal_superior
+5,48,12.9714811407544,7Networks_4,S_cingulate-Main_part_and_Intracingulate
+6,44,14.2442882249561,7Networks_5,Pole_temporal
+7,55,13.5377216711752,7Networks_6,S_frontal_inferior
+8,81,15.9313586679504,7Networks_7,S_temporal_superior
+9,124,96.9666902905741,FreeSurfer_Defined_Medial_Wall,Medial_wall
+10,125,12.8913362049825,7Networks_1,Pole_occipital
+11,128,15.2216373688218,7Networks_2,S_central
+12,142,20.3930924789821,7Networks_3,S_intraparietal-and_Parietal_transverse
+13,130,13.3749098031131,7Networks_4,S_cingulate-Main_part_and_Intracingulate
+14,126,15.7740657826761,7Networks_5,Pole_temporal
+15,92,16.2427227944469,7Networks_6,G_frontal_middle
+16,163,19.0167331900522,7Networks_7,S_temporal_superior

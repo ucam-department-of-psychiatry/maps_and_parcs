@@ -1,0 +1,37 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,96.5633802816901,FreeSurfer_Defined_Medial_Wall,no label
+2,12,58.3976632589193,17Networks_1,lateraloccipital
+3,14,36.4494696351556,17Networks_2,lingual
+4,23,34.9833185810581,17Networks_3,postcentral
+5,23,28.1294396211523,17Networks_4,postcentral
+6,30,49.5161670993628,17Networks_5,superiorparietal
+7,30,29.9814212726428,17Networks_6,superiorparietal
+8,36,21.0216435857036,17Networks_7,insula
+9,28,29.6139757678219,17Networks_8,rostralmiddlefrontal
+10,10,28.4283133519461,17Networks_9,inferiortemporal
+11,13,45.545329939299,17Networks_10,lateralorbitofrontal
+12,26,58.443579766537,17Networks_11,precuneus
+13,28,15.1180619441889,17Networks_12,rostralmiddlefrontal
+14,28,28.1872213967311,17Networks_13,rostralmiddlefrontal
+15,31,41.2814448505698,17Networks_14,superiortemporal
+16,17,36.8607594936709,17Networks_15,parahippocampal
+17,29,22.3326097846051,17Networks_16,superiorfrontal
+18,29,22.0732172365578,17Networks_17,superiorfrontal
+19,0,96.9666902905741,FreeSurfer_Defined_Medial_Wall,no label
+20,48,54.0737818110081,17Networks_1,lateraloccipital
+21,50,33.9705345184464,17Networks_2,lingual
+22,59,33.3907412510333,17Networks_3,postcentral
+23,59,29.5110306223247,17Networks_4,postcentral
+24,66,46.0666882486241,17Networks_5,superiorparietal
+25,66,28.0765027322404,17Networks_6,superiorparietal
+26,68,20.3324906151842,17Networks_7,supramarginal
+27,64,26.8270024772915,17Networks_8,rostralmiddlefrontal
+28,46,32.7696990192763,17Networks_9,inferiortemporal
+29,49,48.0648728345006,17Networks_10,lateralorbitofrontal
+30,62,60.6591865357644,17Networks_11,precuneus
+31,45,16.4334409759598,17Networks_12,inferiorparietal
+32,64,26.6274905885594,17Networks_13,rostralmiddlefrontal
+33,67,39.1653027823241,17Networks_14,superiortemporal
+34,53,34.2671778236508,17Networks_15,parahippocampal
+35,65,24.5197740112994,17Networks_16,superiorfrontal
+36,65,32.4948514268903,17Networks_17,superiorfrontal

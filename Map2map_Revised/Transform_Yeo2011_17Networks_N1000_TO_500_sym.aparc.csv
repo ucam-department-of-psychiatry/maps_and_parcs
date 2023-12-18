@@ -1,0 +1,37 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,95.112676056338,FreeSurfer_Defined_Medial_Wall,no label
+2,37,7.3753390360943,17Networks_1,lateraloccipital_part1
+3,51,10.0477911178459,17Networks_2,lingual_part1
+4,90,10.907605365289,17Networks_3,precentral_part1
+5,81,11.2628255722178,17Networks_4,postcentral_part2
+6,140,10.7269294312013,17Networks_5,superiorparietal_part10
+7,151,10.7408267533674,17Networks_6,supramarginal_part4
+8,91,10.3905796500539,17Networks_7,precentral_part2
+9,4,10.2564102564103,17Networks_8,caudalanteriorcingulate_part1
+10,13,17.8682870750534,17Networks_9,entorhinal_part1
+11,47,14.3528490307421,17Networks_10,lateralorbitofrontal_part2
+12,0,22.6199740596628,17Networks_11,no label
+13,73,7.79924358581212,17Networks_12,parsopercularis_part3
+14,26,10.4903417533432,17Networks_13,inferiorparietal_part7
+15,2,20.5762201677059,17Networks_14,bankssts_part1
+16,67,29.0126582278481,17Networks_15,parahippocampal_part1
+17,36,9.1334112539656,17Networks_16,isthmuscingulate_part2
+18,64,4.95741705859921,17Networks_17,middletemporal_part4
+19,0,95.946137491141,FreeSurfer_Defined_Medial_Wall,no label
+20,202,7.42750049319392,17Networks_1,lateraloccipital_part5
+21,214,11.4087422379155,17Networks_2,lingual_part3
+22,253,8.59052080462937,17Networks_3,precentral_part3
+23,321,11.0882449785973,17Networks_4,insula_part3
+24,301,9.76583576130355,17Networks_5,superiorparietal_part10
+25,312,10.8415300546448,17Networks_6,supramarginal_part4
+26,310,8.44250363901019,17Networks_7,supramarginal_part2
+27,277,9.47563996696945,17Networks_8,rostralmiddlefrontal_part10
+28,174,16.5539398038553,17Networks_9,entorhinal_part1
+29,218,15.4810173239956,17Networks_10,medialorbitofrontal_part1
+30,0,18.9574567554932,17Networks_11,no label
+31,234,8.02535581868197,17Networks_12,parsopercularis_part3
+32,168,7.39142411165182,17Networks_13,caudalmiddlefrontal_part3
+33,163,19.7054009819967,17Networks_14,bankssts_part1
+34,228,26.4818637570038,17Networks_15,parahippocampal_part1
+35,267,8.70056497175141,17Networks_16,rostralanteriorcingulate_part1
+36,224,9.88526037069726,17Networks_17,middletemporal_part3

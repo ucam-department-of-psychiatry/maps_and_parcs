@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,95.112676056338,FreeSurfer_Defined_Medial_Wall,no label
+2,67,5.26997041420118,7Networks_1,parahippocampal_part1
+3,90,5.37981059842837,7Networks_2,precentral_part1
+4,150,6.33887270858318,7Networks_3,supramarginal_part3
+5,161,7.32520699172033,7Networks_4,insula_part4
+6,13,9.56063268892794,7Networks_5,entorhinal_part1
+7,0,7.38803727081455,7Networks_6,no label
+8,36,3.26499405334995,7Networks_7,isthmuscingulate_part2
+9,0,95.946137491141,FreeSurfer_Defined_Medial_Wall,no label
+10,228,6.02602246991429,7Networks_1,parahippocampal_part1
+11,321,4.45923130400238,7Networks_2,insula_part3
+12,300,6.61213360599864,7Networks_3,superiorparietal_part9
+13,314,6.15915884960313,7Networks_4,supramarginal_part6
+14,174,8.44670225589805,7Networks_5,entorhinal_part1
+15,0,5.46350201522615,7Networks_6,no label
+16,197,4.48649063555419,7Networks_7,isthmuscingulate_part2

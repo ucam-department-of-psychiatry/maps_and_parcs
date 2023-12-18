@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,90.6197183098592,FreeSurfer_Defined_Medial_Wall,cortical_wall
+2,4,49.5562130177515,7Networks_1,unimodal
+3,5,63.1103499227618,7Networks_2,idiotypic
+4,3,44.6690651590429,7Networks_3,heteromodal
+5,3,32.5321987120515,7Networks_4,heteromodal
+6,2,63.6028119507909,7Networks_5,paralimbic
+7,3,57.5353171024947,7Networks_6,heteromodal
+8,3,62.2529308489551,7Networks_7,heteromodal
+9,0,97.6045357902197,FreeSurfer_Defined_Medial_Wall,no label
+10,10,45.8235267995915,7Networks_1,idiotypic
+11,10,51.7198000463469,7Networks_2,idiotypic
+12,8,51.6871165644172,7Networks_3,heteromodal
+13,9,39.7742500773116,7Networks_4,unimodal
+14,7,54.3309798519029,7Networks_5,paralimbic
+15,8,68.2131661442006,7Networks_6,heteromodal
+16,8,65.4436598096408,7Networks_7,heteromodal

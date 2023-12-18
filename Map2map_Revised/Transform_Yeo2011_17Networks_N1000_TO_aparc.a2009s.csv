@@ -1,0 +1,37 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,96.5633802816901,FreeSurfer_Defined_Medial_Wall,no label
+2,44,21.1558522845817,17Networks_1,Pole_occipital
+3,46,30.6096281617904,17Networks_2,S_calcarine
+4,47,19.8134404575475,17Networks_3,S_central
+5,5,17.5848460931334,17Networks_4,G_and_S_subcentral
+6,28,24.52206750059,17Networks_5,G_parietal_sup
+7,69,31.7580120761728,17Networks_6,S_postcentral
+8,51,14.3461315200265,17Networks_7,S_circular_insula_sup
+9,16,13.2995209918287,17Networks_8,G_front_middle
+10,45,25.176547873214,17Networks_9,Pole_temporal
+11,25,26.6301155277071,17Networks_10,G_orbital
+12,31,38.10635538262,17Networks_11,G_precuneus
+13,58,21.1284881938056,17Networks_12,S_intrapariet_and_P_trans
+14,16,20.4011887072808,17Networks_13,G_front_middle
+15,75,46.2051171791013,17Networks_14,S_temporal_sup
+16,24,27.7974683544304,17Networks_15,G_oc-temp_med-Parahip
+17,7,15.4533311070296,17Networks_16,G_and_S_cingul-Ant
+18,17,21.2851150374984,17Networks_17,G_front_sup
+19,0,96.9666902905741,FreeSurfer_Defined_Medial_Wall,no label
+20,120,27.6287236141251,17Networks_1,Pole_occipital
+21,122,29.1854377206867,17Networks_2,S_calcarine
+22,123,19.7850647561312,17Networks_3,S_central
+23,118,17.2785643727363,17Networks_4,Lat_Fis-post
+24,134,23.3840509334197,17Networks_5,S_intrapariet_and_P_trans
+25,145,24.5901639344262,17Networks_6,S_postcentral
+26,103,14.1806481268674,17Networks_7,G_pariet_inf-Supramar
+27,131,14.6779521056978,17Networks_8,S_front_middle
+28,121,27.1389922218465,17Networks_9,Pole_temporal
+29,101,30.9804644305197,17Networks_10,G_orbital
+30,107,40.1122019635344,17Networks_11,G_precuneus
+31,130,20.8946298289678,17Networks_12,S_front_inf
+32,92,22.2844550546323,17Networks_13,G_front_middle
+33,151,65.9574468085106,17Networks_14,S_temporal_sup
+34,100,22.1173695075199,17Networks_15,G_oc-temp_med-Parahip
+35,83,18.1678773204197,17Networks_16,G_and_S_cingul-Ant
+36,93,33.3480435422183,17Networks_17,G_front_sup

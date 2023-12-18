@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,96.5633802816901,FreeSurfer_Defined_Medial_Wall,no label
+2,46,13.1379437869822,7Networks_1,S_calcarine
+3,47,16.5021156558533,7Networks_2,S_central
+4,28,20.7126948775056,7Networks_3,G_parietal_sup
+5,51,12.7817387304508,7Networks_4,S_circular_insula_sup
+6,45,14.1739894551845,7Networks_5,Pole_temporal
+7,16,13.5557559362789,7Networks_6,G_front_middle
+8,75,15.5037662117007,7Networks_7,S_temporal_sup
+9,0,96.9666902905741,FreeSurfer_Defined_Medial_Wall,no label
+10,120,12.4561481415693,7Networks_1,Pole_occipital
+11,123,15.8572516304168,7Networks_2,S_central
+12,134,18.6094069529652,7Networks_3,S_intrapariet_and_P_trans
+13,103,13.1893619214514,7Networks_4,G_pariet_inf-Supramar
+14,121,14.7752712243844,7Networks_5,Pole_temporal
+15,92,15.8351992834751,7Networks_6,G_front_middle
+16,151,19.4389008289837,7Networks_7,S_temporal_sup

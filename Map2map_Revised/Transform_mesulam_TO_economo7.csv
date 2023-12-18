@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,9,92.9033092037229,no label,parc_0
+2,1,88.7339990617251,cortical_wall,parc_0
+3,7,44.5931823836775,paralimbic,parc_6
+4,3,54.6303818034119,heteromodal,parc_2
+5,3,54.8720991561181,unimodal,parc_2
+6,2,28.1262836687988,idiotypic,parc_1
+7,15,39.4325805295232,paralimbic,parc_6
+8,11,54.6458714903419,heteromodal,parc_2
+9,11,54.891698735569,unimodal,parc_2
+10,11,26.9345874305259,idiotypic,parc_2

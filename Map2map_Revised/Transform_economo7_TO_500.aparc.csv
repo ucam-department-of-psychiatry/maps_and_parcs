@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,88.136288998358,parc_0,unknown_part1
+2,86,12.924470055567,parc_1,precentral_part3
+3,85,2.11947350658117,parc_2,precentral_part2
+4,141,5.14038543235623,parc_3,supramarginal_part1
+5,44,4.66278101582015,parc_4,lateralorbitofrontal_part2
+6,73,10.2660172349194,parc_5,pericalcarine_part2
+7,82,12.3860589812332,parc_6,posteriorcingulate_part1
+8,154,22.8391634277253,parc_7,insula_part4
+9,155,85.4056177568258,parc_0,unknown_part1
+10,244,16.2059103908484,parc_1,precentral_part2
+11,220,2.17325734605432,parc_2,paracentral_part1
+12,290,4.9023830031582,parc_3,superiorparietal_part8
+13,199,5.42181112441673,parc_4,lateralorbitofrontal_part1
+14,236,11.2719637529009,parc_5,postcentral_part4
+15,241,11.911648698396,parc_6,posteriorcingulate_part1
+16,310,21.5314365999298,parc_7,insula_part2

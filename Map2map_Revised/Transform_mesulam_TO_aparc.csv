@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,88.0752326783868,no label,no label
+2,0,84.9272836941224,cortical_wall,no label
+3,36,17.3475989052003,paralimbic,insula
+4,28,13.4991876523152,heteromodal,rostralmiddlefrontal
+5,31,11.9132383966245,unimodal,superiortemporal
+6,25,27.275394636465,idiotypic,precentral
+7,72,21.3448046294874,paralimbic,insula
+8,64,14.7561413115311,heteromodal,rostralmiddlefrontal
+9,65,11.5799890049478,unimodal,superiorfrontal
+10,61,31.522346828033,idiotypic,precentral

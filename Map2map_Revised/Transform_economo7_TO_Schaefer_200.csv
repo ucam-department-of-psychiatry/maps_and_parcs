@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,88.2525998905309,parc_0,Background+FreeSurfer_Defined_Medial_Wall
+2,30,26.0753241407697,parc_1,7Networks_LH_SomMot_15
+3,95,3.65507931150861,parc_2,7Networks_LH_Default_PFC_12
+4,83,7.77430193488588,parc_3,7Networks_LH_Default_Temp_9
+5,57,10.4317830379446,parc_4,7Networks_LH_Limbic_OFC_2
+6,11,23.2952416635444,parc_5,7Networks_LH_Vis_10
+7,101,11.520490233627,parc_6,7Networks_LH_Default_PHC_1
+8,48,36.6833240792153,parc_7,7Networks_LH_SalVentAttn_FrOper_1
+9,102,86.0079879525961,parc_0,
+10,135,26.4197194607109,parc_1,7Networks_RH_SomMot_18
+11,196,3.64326194974045,parc_2,7Networks_RH_Default_PFCm_4
+12,152,9.0367499282228,parc_3,7Networks_RH_SalVentAttn_TempOccPar_3
+13,161,9.2249246397159,parc_4,7Networks_RH_Limbic_OFC_1
+14,111,13.5374074483368,parc_5,7Networks_RH_Vis_9
+15,164,16.1977386273994,parc_6,7Networks_RH_Limbic_TempPole_1
+16,155,21.6016859852476,parc_7,7Networks_RH_SalVentAttn_FrOper_2

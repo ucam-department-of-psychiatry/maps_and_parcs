@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,202,88.1527921406412,no label,
+2,1,85.2891897325917,cortical_wall,Background+FreeSurfer_Defined_Medial_Wall
+3,99,5.95172928589201,paralimbic,7Networks_LH_SalVentAttn_FrOper_2
+4,179,2.39236393176279,heteromodal,7Networks_LH_Default_PFC_13
+5,141,2.78876582278481,unimodal,7Networks_LH_Cont_PFCl_7
+6,58,3.63241593803181,idiotypic,7Networks_LH_SomMot_26
+7,304,5.35668561478978,paralimbic,7Networks_RH_SalVentAttn_FrOper_1
+8,345,2.61702007137327,heteromodal,7Networks_RH_Cont_PFCl_3
+9,273,2.82792743265531,unimodal,7Networks_RH_DorsAttn_Post_1
+10,248,6.1235899628375,idiotypic,7Networks_RH_SomMot_16

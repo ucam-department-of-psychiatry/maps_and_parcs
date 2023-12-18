@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,88.0752326783868,no label,no label
+2,0,84.9272836941224,cortical_wall,no label
+3,24,9.8482209504852,paralimbic,G_oc-temp_med-Parahip
+4,17,8.82209585702681,heteromodal,G_front_sup
+5,75,6.76863572433193,unimodal,S_temporal_sup
+6,47,14.4181679478904,idiotypic,S_central
+7,100,9.25897475290623,paralimbic,G_oc-temp_med-Parahip
+8,134,7.81707294046563,heteromodal,S_intrapariet_and_P_trans
+9,151,10.0978559648158,unimodal,S_temporal_sup
+10,123,15.7529516229816,idiotypic,S_central

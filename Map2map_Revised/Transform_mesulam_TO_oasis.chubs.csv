@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,10,99.8254912099276,no label,unknown
+2,1,100,cortical_wall,unknown
+3,1,94.6752923612839,paralimbic,unknown
+4,1,97.4167343623071,heteromodal,unknown
+5,1,99.8329817158931,unimodal,unknown
+6,1,100,idiotypic,unknown
+7,10,94.3718953244226,paralimbic,unknown
+8,10,98.0419554011442,heteromodal,unknown
+9,10,99.6877405167674,unimodal,unknown
+10,10,100,idiotypic,unknown

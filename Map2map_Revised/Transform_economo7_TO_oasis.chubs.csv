@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,100,parc_0,unknown
+2,1,100,parc_1,unknown
+3,1,99.1646979412757,parc_2,unknown
+4,1,97.3313250685514,parc_3,unknown
+5,1,99.123746084612,parc_4,unknown
+6,1,99.9625327838142,parc_5,unknown
+7,1,92.2864802757564,parc_6,unknown
+8,1,100,parc_7,unknown
+9,10,99.9738099914883,parc_0,unknown
+10,10,100,parc_1,unknown
+11,10,98.5331703522614,parc_2,unknown
+12,10,98.065604364054,parc_3,unknown
+13,10,98.3317504232564,parc_4,unknown
+14,10,100,parc_5,unknown
+15,10,96.1959856253835,parc_6,unknown
+16,10,100,parc_7,unknown

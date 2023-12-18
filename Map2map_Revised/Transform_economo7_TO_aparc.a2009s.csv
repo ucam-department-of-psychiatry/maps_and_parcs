@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,88.1226053639847,parc_0,no label
+2,30,33.2887425396172,parc_1,G_precentral
+3,17,13.1403982450219,parc_2,G_front_sup
+4,69,17.1668018383347,parc_3,S_postcentral
+5,25,8.94889179651877,parc_4,G_orbital
+6,46,28.8684900711877,parc_5,S_calcarine
+7,24,15.8789735733435,parc_6,G_oc-temp_med-Parahip
+8,50,30.2609661299278,parc_7,S_circular_insula_inf
+9,0,85.385975250442,parc_0,no label
+10,106,41.0186572245676,parc_1,G_precentral
+11,93,11.7298747479879,parc_2,G_front_sup
+12,134,15.3495549813379,parc_3,S_intrapariet_and_P_trans
+13,120,11.0046661436181,parc_4,Pole_occipital
+14,122,29.218698198696,parc_5,S_calcarine
+15,121,15.5228328512578,parc_6,Pole_temporal
+16,126,27.2391991570074,parc_7,S_circular_insula_inf

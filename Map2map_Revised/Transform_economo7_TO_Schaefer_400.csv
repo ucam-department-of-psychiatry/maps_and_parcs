@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,88.327859879584,parc_0,Background+FreeSurfer_Defined_Medial_Wall
+2,58,12.7392467585923,parc_1,7Networks_LH_SomMot_26
+3,141,2.52446844414445,parc_2,7Networks_LH_Cont_PFCl_7
+4,80,3.92384042019079,parc_3,7Networks_LH_DorsAttn_Post_11
+5,117,4.37730462709647,parc_4,7Networks_LH_Limbic_OFC_3
+6,22,9.63844136380667,parc_5,7Networks_LH_Vis_21
+7,126,6.87093067790119,parc_6,7Networks_LH_Limbic_TempPole_7
+8,99,24.2457893762724,parc_7,7Networks_LH_SalVentAttn_FrOper_2
+9,202,85.4318077653375,parc_0,
+10,258,14.8304507694403,parc_1,7Networks_RH_SomMot_26
+11,390,1.77797533059229,parc_2,7Networks_RH_Default_PFCm_10
+12,299,3.82931380993397,parc_3,7Networks_RH_SalVentAttn_TempOccPar_4
+13,381,5.29380187471611,parc_4,7Networks_RH_Default_PFCm_1
+14,221,12.7859431981434,parc_5,7Networks_RH_Vis_19
+15,313,7.94986414234376,parc_6,7Networks_RH_SalVentAttn_Med_1
+16,306,16.0695468914647,parc_7,7Networks_RH_SalVentAttn_FrOper_3

@@ -1,0 +1,17 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,1,90.5856595511768,parc_0,cortical_wall
+2,5,98.6416958221856,parc_1,idiotypic
+3,3,45.3931825852177,parc_2,heteromodal
+4,3,56.3202409917738,parc_3,heteromodal
+5,4,36.3704849133658,parc_4,unimodal
+6,5,79.4492319220682,parc_5,idiotypic
+7,2,68.6403676752202,parc_6,paralimbic
+8,2,68.4064408661854,parc_7,paralimbic
+9,0,94.1137955869836,parc_0,no label
+10,10,99.7684869944164,parc_1,idiotypic
+11,8,45.9432000380995,parc_2,heteromodal
+12,8,56.71834625323,parc_3,heteromodal
+13,10,30.9988850807284,parc_4,idiotypic
+14,10,73.146204000442,parc_5,idiotypic
+15,7,67.4905776141643,parc_6,paralimbic
+16,7,82.5781524411661,parc_7,paralimbic

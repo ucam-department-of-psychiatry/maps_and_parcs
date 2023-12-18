@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,124,88.0752326783868,no label,Medial_wall
+2,42,84.9272836941224,cortical_wall,Medial_wall
+3,5,13.4610599651655,paralimbic,G_cingulate-Main_part
+4,11,9.44963444354184,heteromodal,G_frontal_superior
+5,81,6.91807313642757,unimodal,S_temporal_superior
+6,46,14.0895487354029,idiotypic,S_central
+7,87,11.2920571516362,paralimbic,G_cingulate-Main_part
+8,142,8.61955023507864,heteromodal,S_intraparietal-and_Parietal_transverse
+9,163,10.0802638812534,unimodal,S_temporal_superior
+10,128,15.1215180714967,idiotypic,S_central

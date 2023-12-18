@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,51.0211995863495,no label,no matching lookup
+2,0,50.4992962938141,cortical_wall,no matching lookup
+3,132,8.06668325454093,paralimbic,L_TGd_ROI
+4,150,4.90251827782291,heteromodal,L_PFm_ROI
+5,53,3.13379043600563,unimodal,L_2_ROI
+6,2,12.267472566164,idiotypic,L_V1_ROI
+7,321,8.81343780406617,paralimbic,R_TGd_ROI
+8,339,4.41268102943676,heteromodal,R_PFm_ROI
+9,242,5.1544804837823,unimodal,R_2_ROI
+10,191,13.7402571776236,idiotypic,R_V1_ROI

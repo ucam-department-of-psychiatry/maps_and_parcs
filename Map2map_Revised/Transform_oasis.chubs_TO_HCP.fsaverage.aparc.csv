@@ -1,0 +1,19 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,8.5910397462583,unknown,no matching lookup
+2,83,82.6086956521739,oasis.chubs.ifc,L_IFSa_ROI
+3,150,96.969696969697,oasis.chubs.ipc,L_PFm_ROI
+4,146,57.286432160804,oasis.chubs.ips,L_IP1_ROI
+5,178,76.6233766233766,oasis.chubs.lateraltemporal,L_TE1m_ROI
+6,89,89.1402714932127,oasis.chubs.medialpfc,L_10v_ROI
+7,119,77.3175542406312,oasis.chubs.mtl,L_EC_ROI
+8,34,64.0552995391705,oasis.chubs.retrosplenial,L_v23ab_ROI
+9,132,100,oasis.chubs.tp,L_TGd_ROI
+10,0,8.62960188687421,unknown,no matching lookup
+11,257,55.440414507772,oasis.chubs.ifc,R_45_ROI
+12,331,85.0609756097561,oasis.chubs.ipc,R_PFm_ROI
+13,328,59.3582887700535,oasis.chubs.ips,R_IP0_ROI
+14,319,65.1551312649165,oasis.chubs.lateraltemporal,R_PHT_ROI
+15,275,70.7920792079208,oasis.chubs.medialpfc,R_OFC_ROI
+16,300,55.5288461538462,oasis.chubs.mtl,R_EC_ROI
+17,215,96.7289719626168,oasis.chubs.retrosplenial,R_v23ab_ROI
+18,313,83.3333333333333,oasis.chubs.tp,R_TGd_ROI

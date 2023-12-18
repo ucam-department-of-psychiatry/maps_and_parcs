@@ -1,0 +1,19 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,8.59909307166221,unknown,no label
+2,21,100,oasis.chubs.ifc,parstriangularis
+3,9,66.0606060606061,oasis.chubs.ipc,inferiorparietal
+4,9,100,oasis.chubs.ips,inferiorparietal
+5,16,100,oasis.chubs.lateraltemporal,middletemporal
+6,15,100,oasis.chubs.medialpfc,medialorbitofrontal
+7,7,72.3865877712032,oasis.chubs.mtl,entorhinal
+8,26,81.5668202764977,oasis.chubs.retrosplenial,precuneus
+9,34,70.7317073170732,oasis.chubs.tp,temporalpole
+10,0,8.61474460959409,unknown,no label
+11,57,100,oasis.chubs.ifc,parstriangularis
+12,45,100,oasis.chubs.ipc,inferiorparietal
+13,45,100,oasis.chubs.ips,inferiorparietal
+14,52,97.6133651551313,oasis.chubs.lateraltemporal,middletemporal
+15,51,87.8712871287129,oasis.chubs.medialpfc,medialorbitofrontal
+16,43,88.7019230769231,oasis.chubs.mtl,entorhinal
+17,47,53.7383177570093,oasis.chubs.retrosplenial,isthmuscingulate
+18,67,100,oasis.chubs.tp,superiortemporal

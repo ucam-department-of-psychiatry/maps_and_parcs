@@ -1,0 +1,11 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,155,88.0946225439504,no label,unknown_part1
+2,1,84.9272836941224,cortical_wall,unknown_part1
+3,152,5.97661109728788,paralimbic,insula_part2
+4,128,2.68887083671812,heteromodal,superiorparietal_part5
+5,138,2.47011251758087,unimodal,superiortemporal_part5
+6,84,3.88768264773194,idiotypic,precentral_part1
+7,199,5.73564807702156,paralimbic,lateralorbitofrontal_part1
+8,178,2.18840278695644,heteromodal,inferiorparietal_part6
+9,254,2.73556899395272,unimodal,precuneus_part3
+10,244,4.46278817377577,idiotypic,precentral_part2

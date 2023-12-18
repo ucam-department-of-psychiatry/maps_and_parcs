@@ -1,0 +1,19 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,8.59909307166221,unknown,no label
+2,15,77.1739130434783,oasis.chubs.ifc,G_front_inf-Triangul
+3,26,80.6060606060606,oasis.chubs.ipc,G_pariet_inf-Angular
+4,58,68.3417085427136,oasis.chubs.ips,S_intrapariet_and_P_trans
+5,39,99.6753246753247,oasis.chubs.lateraltemporal,G_temporal_middle
+6,32,100,oasis.chubs.medialpfc,G_rectus
+7,24,98.8165680473373,oasis.chubs.mtl,G_oc-temp_med-Parahip
+8,31,70.5069124423963,oasis.chubs.retrosplenial,G_precuneus
+9,36,64.808362369338,oasis.chubs.tp,G_temp_sup-Plan_polar
+10,0,8.61474460959409,unknown,no label
+11,91,100,oasis.chubs.ifc,G_front_inf-Triangul
+12,102,99.6951219512195,oasis.chubs.ipc,G_pariet_inf-Angular
+13,96,74.331550802139,oasis.chubs.ips,G_occipital_middle
+14,115,100,oasis.chubs.lateraltemporal,G_temporal_middle
+15,141,53.960396039604,oasis.chubs.medialpfc,S_orbital_med-olfact
+16,100,100,oasis.chubs.mtl,G_oc-temp_med-Parahip
+17,86,57.0093457943925,oasis.chubs.retrosplenial,G_cingul-Post-dorsal
+18,112,70.1388888888889,oasis.chubs.tp,G_temp_sup-Plan_polar

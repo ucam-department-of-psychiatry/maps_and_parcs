@@ -1,0 +1,89 @@
+annot1_idx,annot2_idx,Gof,label1,label2
+1,0,96.2176998259472,unknown,no label
+2,90,15.236237537928,FA,precentral_part1
+3,91,9.91618952784001,FB,precentral_part2
+4,107,13.0039656311963,FC,rostralmiddlefrontal_part1
+5,72,42.6808364758313,FCBm,parsopercularis_part2
+6,121,11.8092691622103,FD,superiorfrontal_part4
+7,117,49.6289424860853,FDdelta,rostralmiddlefrontal_part11
+8,76,56.31013016412,FDT,parstriangularis_part2
+9,58,21.1326491828202,FE,medialorbitofrontal_part2
+10,47,18.6498611407819,FF,lateralorbitofrontal_part2
+11,59,74.0384615384615,FG,medialorbitofrontal_part3
+12,60,41.8043202033037,FH,medialorbitofrontal_part4
+13,158,54.4022242817423,FJK,insula_part1
+14,57,55.2770448548813,FLMN,medialorbitofrontal_part1
+15,0,100,HA,no label
+16,13,82.4451410658307,HB,entorhinal_part1
+17,0,48.2435597189695,HC,no label
+18,159,43.3962264150943,IA,insula_part2
+19,160,37.2306281522238,IB,insula_part3
+20,89,41.012441012441,LA1,posteriorcingulate_part2
+21,4,27.8776978417266,LA2,caudalanteriorcingulate_part1
+22,36,33.5731414868106,LC1,isthmuscingulate_part2
+23,35,40.1430030643514,LC2,isthmuscingulate_part1
+24,88,72.972972972973,LC3,posteriorcingulate_part1
+25,0,56.0553633217993,LD,no label
+26,0,43.2855280312907,LE,no label
+27,37,8.78183414878936,OA,lateraloccipital_part1
+28,10,13.5606060606061,OB,cuneus_part1
+29,51,18.8420780563453,OC,lingual_part1
+30,99,12.755519215045,PA,precuneus_part1
+31,82,17.6738882554162,PB,postcentral_part3
+32,84,13.3137673425827,PC,postcentral_part5
+33,150,13.3451771344968,PD,supramarginal_part3
+34,138,11.046511627907,PE,superiorparietal_part8
+35,148,18.7377279102384,PF,supramarginal_part1
+36,28,17.649063032368,PG,inferiorparietal_part9
+37,42,12.3711340206186,PH,lateraloccipital_part6
+38,147,23.5580524344569,TA,superiortemporal_part7
+39,146,67.0196671709531,TB,superiortemporal_part6
+40,157,58.1699346405229,TC,transversetemporal_part1
+41,160,49.7422680412371,TD,insula_part3
+42,141,9.10353340533868,TE,superiortemporal_part1
+43,17,30.5357811914575,TF,fusiform_part4
+44,156,22.3560039049788,TG,temporalpole_part1
+45,0,96.3557230089645,unknown,no label
+46,257,13.8541520303499,FA,precentral_part7
+47,254,8.07499261883673,FB,precentral_part4
+48,291,12.9426512065183,FC,superiorfrontal_part13
+49,233,36.1863488624052,FCBm,parsopercularis_part2
+50,284,11.5234069203069,FD,superiorfrontal_part6
+51,278,41.6863672182821,FDdelta,rostralmiddlefrontal_part11
+52,237,52.0084566596194,FDT,parstriangularis_part2
+53,270,23.0122324159021,FE,rostralmiddlefrontal_part3
+54,208,19.2177589852008,FF,lateralorbitofrontal_part2
+55,220,71.40549273021,FG,medialorbitofrontal_part3
+56,221,47.3684210526316,FH,medialorbitofrontal_part4
+57,319,44.7572815533981,FJK,insula_part1
+58,218,80.1011804384486,FLMN,medialorbitofrontal_part1
+59,0,87.9265091863517,HA,no label
+60,174,82.0121951219512,HB,entorhinal_part1
+61,228,60.6986899563319,HC,parahippocampal_part1
+62,320,43.0841671571513,IA,insula_part2
+63,321,34.1319717203456,IB,insula_part3
+64,165,36.5870077415012,LA1,caudalanteriorcingulate_part1
+65,0,30.462962962963,LA2,no label
+66,197,41.8387413962635,LC1,isthmuscingulate_part2
+67,196,46.2264150943396,LC2,isthmuscingulate_part1
+68,249,60.8695652173913,LC3,posteriorcingulate_part1
+69,0,56.5217391304348,LD,no label
+70,0,47.3170731707317,LE,no label
+71,296,9.64172813487882,OA,superiorparietal_part5
+72,171,15.6966490299824,OB,cuneus_part1
+73,212,17.350592123382,OC,lingual_part1
+74,259,10.4144527098831,PA,precentral_part9
+75,260,16.214335421016,PB,precuneus_part1
+76,244,21.4089157952669,PC,postcentral_part4
+77,311,12.4048840913113,PD,supramarginal_part3
+78,266,12.2140221402214,PE,precuneus_part7
+79,309,16.3757890828073,PF,supramarginal_part1
+80,188,16.0296177706624,PG,inferiorparietal_part8
+81,199,16.1613805970149,PH,lateraloccipital_part2
+82,306,25.2177900045851,TA,superiortemporal_part5
+83,307,71.4285714285714,TB,superiortemporal_part6
+84,318,65.774647887324,TC,transversetemporal_part1
+85,318,44.3722943722944,TD,transversetemporal_part1
+86,163,8.64206429292201,TE,bankssts_part1
+87,178,21.4618520675597,TF,fusiform_part4
+88,317,22.6989619377163,TG,temporalpole_part1
